@@ -46,11 +46,10 @@ exploración visual de diferencias
 - Tiempo disponible para entrenar modelos complejos.
 
 ## Estado actual
-Hemos configurado el entorno aislado (`acus220_2026`) con las librerías necesarias, comprobado su funcionamiento en Jupyter y estructurado el documento base del proyecto.
+Hemos configurado el entorno aislado (`acus220_2026`), estructurado el repositorio en GitHub y validado el funcionamiento de nuestras herramientas mediante la generación exitosa de un primer espectrograma de prueba utilizando `librosa` en Jupyter Notebook.
 
 ## Próximos pasos
-1. Crear un repositorio en GitHub para respaldar esta estructura inicial[cite: 61].
-2. Buscar, descargar y explorar el primer archivo de audio de prueba[cite: 61].
-3. Crear un notebook de exploración para visualizar el primer espectrograma musical[cite: 61].
-
-cambiar estos ultimos dos puntos!!!!
+1. **Adquisición de datos:** Seleccionar y descargar el dataset principal de música etiquetado por géneros (por ejemplo, el dataset GTZAN).
+2. **Procesamiento en lote:** Crear un notebook para cargar y auditar múltiples archivos de audio de distintos géneros de manera estructurada.
+3. **Extracción de características:** Extraer métricas acústicas y espectrogramas para comparar visual y matemáticamente las diferencias entre géneros musicales.
+4. **Decisiones metodológicas:** Investigar y definir el enfoque inicial para la clasificación de estos datos.
