@@ -28,6 +28,8 @@ Obtener el dataset de canciones, comprender su estructura, generar espectrograma
 Implementar un modelo básico de clasificación y evaluar su desempeño para predecir géneros nuevos.
 
 ## Pipeline provisional
+
+```
 búsqueda y descarga de audios
 ↓
 auditoría de los datos
@@ -39,6 +41,7 @@ extracción de características acústicas
 exploración visual de diferencias
 ↓
 ¿clasificación automática?
+```
 
 ## Posibles dificultades
 - Capacidad computacional para procesar cientos de archivos de audio.
