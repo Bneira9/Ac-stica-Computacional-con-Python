@@ -1,6 +1,6 @@
 # Exploración y Clasificación Acústica de Géneros Musicales
 
-## Integrantes
+## Integrante
 - Benjamín Neira Provoste
 
 ## Idea del proyecto
